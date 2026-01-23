@@ -4,10 +4,6 @@
 Bulk WhatsApp Message Sender is a Python-based automation tool that allows users to send WhatsApp messages in bulk to multiple contacts automatically.  
 This project is useful for learning **automation, scripting, and message scheduling** using Python.
 
-⚠️ This project is for **educational purposes only**.
-
----
-
 ## 🛠 Tech Stack
 - **Python 3**
 - **Selenium** (for browser automation)
