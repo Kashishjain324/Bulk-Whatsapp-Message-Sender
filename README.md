@@ -11,8 +11,6 @@ This project is useful for learning **automation, scripting, and message schedul
 - **WebDriver (ChromeDriver)**
 - **WhatsApp Web**
 
----
-
 ## ⚙️ Features
 - Send WhatsApp messages automatically
 - Supports bulk messaging
